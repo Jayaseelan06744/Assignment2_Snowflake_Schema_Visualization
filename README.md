@@ -1,5 +1,9 @@
 # Assignment2_Snowflake_Schema_Visualization
-Snowflake Schema Visualization
+
+## ▶️ Run This Project Online
+Click below to open and run the notebook in Google Colab:
+[(https://colab.research.google.com/github/Jayaseelan06744/Assignment2_Snowflake_Schema_Visualization/blob/main/Snowflake_Schema_Assignment.ipynb)]
+
 # Snowflake Schema Visualization using Python
 
 ## 📖 Overview
